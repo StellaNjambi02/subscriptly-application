@@ -1,13 +1,7 @@
-# GROUP TWO
+
 
 # **SubScriptly - Your Ultimate Subscription Manager**
 
----
-
-# Deployed Links
-1. [Frontend](https://subscriptly4u.netlify.app)
-
-2. [Backend](https://subscriptly-server.onrender.com/users)
 
 ## **Introduction**
 
@@ -152,16 +146,3 @@ SubScriptly/
 
 ---
 
-## **Contributing**
-
-Contributions are welcome! If you'd like to contribute to SubScriptly, please fork the repository and submit a pull request.
-
----
-
-## **License**
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-**SubScriptly** - Take control of your digital subscriptions today!
